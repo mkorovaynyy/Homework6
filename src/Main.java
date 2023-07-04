@@ -73,7 +73,6 @@ public class Main {
 
     public static void task9() {
         System.out.println("Задача 9");
-        System.out.println("Задача 8");
         double totalSaving = 0;
         double savingPerMonth = 29000;
         for (int i = 1; i <= 12; i++) {
